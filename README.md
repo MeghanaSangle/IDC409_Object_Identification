@@ -33,16 +33,10 @@ A Python-based machine learning project for object identification using image fe
 | **Dropout** | 0.3 to prevent overfitting |
 | **Output Layer** | Softmax activation for multi-class classification |
 
-
-# Installation & Setup
-- Generated a synthetic training dataset comprising 300 images per shape category designed specifically to introduce complexity, including random changes in size, rotation, and realistic boundary wear or damage.
-- Install all the necessary libraries, ensuring compatibility for the TensorFlow version used.
-- Mount the Google Drive if using Google Colab :  from google.colab import
-                                                  drive.mount('/content/drive')
-- Ensure your dataset is correctly placed in your Google Drive at the specified path.
     
-# Dataset Structure 
-- Ensure that the dataset (`shapes_dataset/`) is organized into subdirectories for each shape class.
+# Training Dataset
+- The link to the training dataset used: https://drive.google.com/drive/folders/1dMQ95eQCP_F1Kr5xR8oxYC1oDdCN0xUH?usp=drive_link
+- The link to the saved results: https://drive.google.com/drive/folders/1EjjJSjihbziVgNeMTK2fmw3UhO9Dz6nX?usp=drive_link
 
 # Project Structure
 
